@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-If you are looking for a more formal view on my portifolio then check out my dedicated portofolio page (WIP) bellow.
+If you are looking for a more formal view on my portifolio then check out my dedicated portofolio page (WIP) below.
 - [devinkothari.github.io](https://github.com/DevinKothari/devinkothari.github.io): [https://devinkothari.github.io](https://devinkothari.github.io)
 - Connect with me on LinkedIn: [www.linkedin.com/in/devin-kothari](https://www.linkedin.com/in/devin-kothari/)
 - Contact me at devinkothari02@gmail.com
